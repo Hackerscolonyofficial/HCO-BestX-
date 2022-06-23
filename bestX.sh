@@ -1,37 +1,46 @@
 # hi ! my name is azhar and i am a owner of hacker colony officail
 # this tool made by    
 # usr/bin/bash
-echo "Installing Requirements"
+
+echo "************Installing Requirements*************"
 sleep 2
-sudo apt install boxes
-echo " it work on only kali linux ! don't be use in termux  "
-clear  
-echo '        @@@@@@@@@@@@@@@@@@  ' 
-echo '      @@@@@@@@@@@@@@@@@@@@@@@  ' 
-echo '    @@@@@@@@@@@@@@@@@@@@@@@@@@@  ' 
-echo '   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@  ' 
-echo '   @@@@@@@@@@@@@@@/      \@@@/   @  ' 
-echo '  @@@@@@@@@@@@@@@@\      @@  @___@  ' 
-echo '  @@@@@@@@@@@@@ @@@@@@@@@@  | \@@@@@  ' 
-echo '  @@@@@@@@@@@@@ @@@@@@@@@\__@_/@@@@@  ' 
-echo '   @@@@@@@@@@@@@@@/,/,/./,/_|.\,\,\  ' 
-echo '     @@@@@@@@@@@@@/     HACKER     \  ' 
-echo '                   \_______________/  welcome sir lets hack the whole world  '  
-echo '    __________________________________________________________________________  '   
-sleep 1 
-echo "whats ur name"
-read name 
-echo "hi! $name" 
-sleep 2 
-echo " rule! type number not name ! "
-sleep 2
-echo "⚙"
-sleep 1
-echo "⚙"
-sleep 1 
-echo "⚙"
-sleep 2
+sudo apt install lolcat &> /dev/null
+sudo apt install boxes &> /dev/null
+echo                                           '- - - - - - - - - - - - - - - '
+echo 					       '|      hco hackers colony     |'
+echo                                           '|  yt hacker colony officail  |'
+echo                                           '| ----------------------------|'
+
 clear 
+sleep 2 
+echo " ******************It Work On Only Kali Linux ! don't be use in termux ********************  " 
+
+sleep 4 
+clear 
+sleep 4
+figlet "hackers colony" | lolcat -f | boxes -d parchment 
+sleep 5
+clear 
+sleep 3 
+echo " **************** Rule! type number not name ***************** "
+sleep 2
+echo ". . . . . ."
+sleep 1
+echo ". . . . ."
+sleep 1 
+echo ". . . ."
+sleep 2
+clear
+
+
+echo                                           ' - - - - - - - - - - - - - - - - - - '
+echo                                           '|       hco hackers colony         |'
+echo                                           '|    insta hacker colony dfficail  |'
+echo                                           '| ---------------------------------'
+
+clear 
+
+sleep 3 
 boxes main.txt
 sleep 1 
 echo -n " input the number : "
@@ -96,8 +105,36 @@ then
 
 fi  
 
+
+if [ "$number" = "11" ];
+then 
+  sudo apt install nmap
+
+fi  
+
+
+if [ "$number" = "12" ];
+then 
+  sudo apt install theharvester
+
+fi  
+
+
+if [ "$number" = "13" ];
+then 
+  sudo apt install sqlmap
+
+fi  
+
+
+if [ "$number" = "14" ];
+then 
+  sudo apt install gobuster 
+fi  
+
+
 sleep 2
-echo "________________________________________________________________________________________________________________________________________________________________"
+echo " - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - -"
 read -p "||>>>>>>>>>>>>>>||Do you want to see our instagram pages||<<<<<<<<<<<<<|| (y/n)"  yn  
 
 case $yn in 

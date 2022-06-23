@@ -1,0 +1,14 @@
+1. Mosint     || MOSINT is an OSINT Tool for emails. It helps you gather information about the target email.
+2. HiddenEye   || HiddenEye is a modern phishing tool with advanced functionality.
+3. Autopwn    || This tool is designed to test for browser vulnerabilities that are used for web application attacks.
+4. Fluxion    || Fluxion is a security auditing and social-engineering research tool. 
+5. Osintgram  || Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname. 
+6. Trape      || Trape is an OSINT analysis and research tool, which allows people to track and execute intelligent social engineering attacks in real time.
+7. Phoneinfoga|| PhoneInfoga is one of the most advanced tools to scan international phone numbers.
+8. Sublist3er || It helps penetration testers and bug hunters collect and gather subdomains for the domain they are targeting.
+9. Hydra      || Hydra is a parallelized login cracker which supports numerous protocols to attack. 
+10.Ghost      || Ghost Framework gives you the power and convenience of remote Android device administration. 
+11.NMap       ||Nmap, the acronym for Network Mapper, is an open-source security auditing and network scanning software designed by Gordon Lyon. 
+12.theharvester|| its used to find email accounts, subdomain names, virtual hosts, open ports / banners, and employee. 
+13.SQLmap     ||SQLmap is an open-source tool used in penetration testing to detect and exploit SQL injection flaws. 
+14GoBuster    ||Gobuster is a tool used to brute-force URIs including directories and files as well as DNS subdomains.
